@@ -9,7 +9,7 @@
   $cloudfront_url = `head -n1 myimg.txt`;
   $img_path = "https://".$cloudfront_url."/awsefs.jpg";
   echo "<br>";
-  echo "<img src='${img_path}' width=1280 height=720>";
+  echo "<img src='${img_path}' width=800 height=450>";
 ?>
 </body>
 </html>
