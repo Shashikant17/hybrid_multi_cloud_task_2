@@ -1,2 +1,2 @@
 # hybrid_multi_cloud_task_2
-launch wordpress site and database server on AWS. wordpress site will be launch on EC2 instance and Database for wordpress will be AWS EFS volume
+launch a web server on AWS instance and Database for this web server will be AWS EFS volume
